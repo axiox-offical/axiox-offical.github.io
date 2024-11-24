@@ -1,0 +1,25 @@
+.navbarcolor{
+    background-color: #d7ceb2;
+}
+
+.info-panel{
+    height: 100vh;
+    background-color: #93A8AC;
+}
+
+.main-content{
+    height: 100vh;
+    background-color: #4C5760;
+}
+
+.axiox-logo{
+    position: absolute;
+    right: 770px;
+    bottom: 300px;
+}
+
+.axiox-offical{
+    position: absolute;
+    right: 770px;
+    bottom: 400px;
+}
