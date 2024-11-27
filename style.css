@@ -3,12 +3,12 @@
 }
 
 .info-panel{
-    height: 100vh;
+    height: 94vh;
     background-color: #93A8AC;
 }
 
 .main-content{
-    height: 100vh;
+    height: 94vh;
     background-color: #4C5760;
 }
 
@@ -22,4 +22,9 @@
     position: absolute;
     right: 770px;
     bottom: 400px;
+}
+
+.github-fork{
+    height: 28px !important;
+    width: 28px !important;
 }
